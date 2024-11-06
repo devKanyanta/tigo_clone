@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672986647539",
+    "project_id": "tigo-clone",
+    "storage_bucket": "tigo-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672986647539:android:dd61b6067bf9e06305e086",
+        "android_client_info": {
+          "package_name": "com.tigo_clone.tigo_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoX2h5sKJdc7sWhS9sOB0QskAy6l4FzlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

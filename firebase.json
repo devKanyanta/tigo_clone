@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"tigo-clone","appId":"1:672986647539:android:dd61b6067bf9e06305e086","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"tigo-clone","configurations":{"android":"1:672986647539:android:dd61b6067bf9e06305e086","ios":"1:672986647539:ios:e7512a1acee1d4a305e086"}}}}}}
